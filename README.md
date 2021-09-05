@@ -8,5 +8,8 @@
 + Very easy!
 
 + INFO APP
+---
 [![git-theme.gif](https://i.postimg.cc/BQXMDk9N/git-theme.gif)](https://postimg.cc/56WBWPtF)
+---
+[![Architecture-MVC-Flutter-drawio.png](https://i.postimg.cc/VLJP6K7P/Architecture-MVC-Flutter-drawio.png)](https://postimg.cc/KRhHpDS0)
 

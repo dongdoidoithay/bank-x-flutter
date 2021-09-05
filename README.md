@@ -13,6 +13,7 @@
 # Architecture
 +  MVC
 +  State management GETX
+
 #APP
 +UI-Func
   - Login

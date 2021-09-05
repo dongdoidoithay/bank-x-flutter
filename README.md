@@ -8,5 +8,5 @@
 + Very easy!
 
 + INFO APP
-[git-theme.gif](https://postimg.cc/56WBWPtF)
+[![git-theme.gif](https://i.postimg.cc/BQXMDk9N/git-theme.gif)](https://postimg.cc/56WBWPtF)
 

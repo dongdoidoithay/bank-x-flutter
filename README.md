@@ -14,8 +14,8 @@
 +  MVC
 +  State management GETX
 
-#APP
-+UI-Func
+# APP
++ UI-Func
   - Login
   - Home
   - Tranfer

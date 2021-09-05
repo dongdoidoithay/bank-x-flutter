@@ -1,0 +1,52 @@
+type Customer {
+  id: ID
+  name: String
+  cif: String
+  docNo: String
+  userName: String
+  passWord: String
+  accounts: [Account]
+  cards: [Card]
+  roles: [Role]
+}
+
+type Card {
+  id: ID
+  cardName: String
+  cardnnumber: String
+  account: Account
+}
+
+type Account {
+  id: ID
+  cif: String
+  accountNumber: String
+  createdDate: String
+  amount: Float
+  siteName: String
+}
+
+type Role {
+  id: ID
+  name: String
+  status: String
+  rights: [Right]
+}
+
+type Right {
+  id: ID
+  name: String
+  action: String
+  status: String
+}
+
+type Query {
+  customers: [Customer]
+  customer(id: ID!): Customer
+  login(cif: String!, password: String!): Customer
+}
+
+type Mutation {
+  CreateCustomer(name: String, cif: String, docNo: String, userName: String, passWord: String): Customer
+  createAccount(cif: String, accountNumber: String, createdDate: String, amount: Float, siteName: String): Account
+}

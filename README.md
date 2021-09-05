@@ -1,13 +1,23 @@
-# FUNC
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
+# dependencies
++ GetX
++ Http (call api rest)
++ graphql_flutter (call api graphql)
+# API 
++ Nodejs
++ Express
++ apollographql-server
++ mysql
 
-+ INFO APP
++ https://ebank-api.herokuapp.com/
+  - schema in folder [Document] 
+# Architecture
++  MVC
++  State management GETX
+#APP
++UI-Func
+  - Login
+  - Home
+  - Tranfer
 ---
 [![git-theme.gif](https://i.postimg.cc/BQXMDk9N/git-theme.gif)](https://postimg.cc/56WBWPtF)
 ---

@@ -8,5 +8,5 @@
 + Very easy!
 
 + API
-![Minion](https://github.com/dongdoidoithay/bank-x-flutter/tree/master/Document/git-theme.gif)
+![](https://drive.google.com/file/d/1oXa2ODpAwrArxtW8rIZrYYkshi63OxUi/view?usp=sharing)
 
